@@ -1,6 +1,8 @@
 // src/components/Events.js
 import React from 'react';
+import Web from '../../assets/Web-Development.jpg' ;
 import './Event.css';
+import dinner from '../../assets/galadinner.jpeg';
 
 const Events = () => {
   const events = [
@@ -11,7 +13,7 @@ const Events = () => {
       time: '10:00 AM - 4:00 PM',
       location: 'Alumni Center, Building A',
       registrationUrl: 'https://example.com/register-web-dev-workshop',
-      imageUrl: 'https://via.placeholder.com/300x200',
+      imageUrl: Web,
     },
     {
       title: 'Annual Gala Dinner',
@@ -20,7 +22,7 @@ const Events = () => {
       time: '6:00 PM - 11:00 PM',
       location: 'Grand Ballroom, City Hotel',
       registrationUrl: 'https://example.com/register-gala-dinner',
-      imageUrl: 'https://via.placeholder.com/300x200',
+      imageUrl: dinner,
     },
     // Add more events here as needed
   ];

@@ -13,7 +13,7 @@ const SuccessStories = () => {
           </div>
           <div className="story-content">
             <p>"Thanks to the alumni association, I connected with mentors who helped me land my dream job!"</p>
-            <span>- Jane Doe, Class of 2015</span>
+            <span>- Aditya Phule, Class of 2021</span>
           </div>
         </div>
         <div className="story">
@@ -22,7 +22,7 @@ const SuccessStories = () => {
           </div>
           <div className="story-content">
             <p>"The alumni network provided funding and support for my startup. I'm forever grateful."</p>
-            <span>- John Smith, Class of 2010</span>
+            <span>- Mugdha Choudhari, Class of 2021</span>
           </div>
         </div>
         {/* Add more success stories as needed */}

@@ -20,18 +20,15 @@ const AboutUs = () => {
         <div className="team-members">
           <div className="team-member">
             <img src="https://via.placeholder.com/150" alt="John Doe" />
-            <h3>John Doe</h3>
-            <p>Founder & CEO</p>
+            <h3>Aditya Phule</h3>
           </div>
           <div className="team-member">
             <img src="https://via.placeholder.com/150" alt="Jane Smith" />
-            <h3>Jane Smith</h3>
-            <p>Head of Operations</p>
+            <h3>Mugdha Choudhari</h3>
           </div>
           <div className="team-member">
             <img src="https://via.placeholder.com/150" alt="David Lee" />
-            <h3>David Lee</h3>
-            <p>Community Manager</p>
+            <h3>Abhishek Parshetty</h3>
           </div>
         </div>
       </div>

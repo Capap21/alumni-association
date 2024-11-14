@@ -1,16 +1,17 @@
 // src/components/Gallery.js
 import React from 'react';
 import './Gallery.css';
+import event1 from "../../assets/event1.jpg";
 
 const images = [
-  "https://via.placeholder.com/300x200", // Replace these URLs with actual image URLs
-  "https://via.placeholder.com/300x200",
-  "https://via.placeholder.com/300x200",
-  "https://via.placeholder.com/300x200",
-  "https://via.placeholder.com/300x200",
-  "https://via.placeholder.com/300x200",
-  "https://via.placeholder.com/300x200",
-  "https://via.placeholder.com/300x200"
+  event1,
+  event1,
+  event1,
+  event1,
+  event1,
+  event1,
+  event1
+  
 ];
 
 const Gallery = () => {
